@@ -1,1 +1,2 @@
-# c21ban
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
